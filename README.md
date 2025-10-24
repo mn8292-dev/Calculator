@@ -1,13 +1,17 @@
-CalculatorApp:
-A simple GUI Calculator built using Java Swing to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+# 🧮 Simple GUI Calculator (Java Swing)
 
-🚀 Features
-User-friendly graphical interface
-Performs +, -, ×, ÷ operations
-Error handling for invalid input and division by zero
-Built entirely with core Java (no external libraries)
+A basic four-function calculator built using **Java Swing** for the graphical user interface.
 
-🧩 How to Run
-Download or clone this repository.
-Open the project in any IDE (VS Code, IntelliJ, Eclipse) or terminal.
-Compile and run:
+## ✨ Features
+
+* **GUI:** Implements a simple, usable interface.
+* **Arithmetic:** Supports Addition (`+`), Subtraction (`-`), Multiplication (`*`), and Division (`/`).
+* **Clear:** The **C** button resets the display.
+* **Error Handling:** Manages division by zero and invalid input.
+
+## ⚙️ How to Run
+
+1.  **Compile:** `javac Calculator.java`
+2.  **Run:** `java Calculator`
+
+A calculator window will appear, ready for use.
