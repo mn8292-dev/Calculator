@@ -1,4 +1,4 @@
-CalculatorApp#
+CalculatorApp:
 A simple GUI Calculator built using Java Swing to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 🚀 Features
